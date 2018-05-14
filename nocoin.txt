@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 !-------------------------------------------------------------------------------
-! Title: NoCoin Filter List
+! Title: NoCoin Filter List2 for freecontent
 ! Expires: 2 days (update frequency)
 ! Version: 64
 ! Last modified: 9 May 2018
@@ -49,6 +49,7 @@
 ||freecontent.loan^$third-party
 ||freecontent.win^$third-party
 ||freecontent.faith^$third-party
+||freecontent.science^$third-party
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
 ||crypto-webminer.com^$third-party
